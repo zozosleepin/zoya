@@ -12,12 +12,14 @@ Alongside I just love cars, someday I'd love to be at a team in F1 as their engi
 
 I'm excited to be at new and good places and meet different people with varying ideas and skills. 
 
-<h2>🌈 Let’s Connect!</h2>
-<p>
-  <a href="https://www.linkedin.com/in/zoyasheikh879" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-zoyasheikh879-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/zoyasuotpsmthng" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-zoyasuotpsmthng-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+<div align="center">
+  <h2>🤖 Let’s Connect!</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/zoyasheikh879" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/zoyasuotpsmthng" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+  </p>
+</div>
